@@ -1,4 +1,4 @@
-# FPA-Yolov8s
+# FPA-Yolov8s（在master分支）
 FPA-YOLOv8 是基于官方 YOLOv8 库编写的，用于无人机航拍图像中的目标检测。官方 YOLOv8 库的 URL 为：https://github.com/ultralytics/ultralytics/tree/main。
 
 1.将模型文件夹中的 yaml 文件添加到 YOLOv8 官方库中。
